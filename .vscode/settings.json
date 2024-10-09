@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "myC.C": "cpp",
+    "stdbool.h": "c"
+  }
+}
